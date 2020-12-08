@@ -1,7 +1,7 @@
 import States from './data/states.json';
 
-const url = 'pv-api.herokuapp.com/victims';
-const queryURL = 'pv-api.herokuapp.com/victims/find?';
+const url = 'https://pv-api.herokuapp.com/victims';
+const queryURL = 'https://pv-api.herokuapp.com/victims/find?';
 
 export default function search(gender, race, place, cam, verdict, callback, fail) {
   let fetchURL = queryURL;
