@@ -1,7 +1,7 @@
 import States from './data/states.json';
 
-const url = 'http://ec2-52-14-129-248.us-east-2.compute.amazonaws.com/victims';
-const queryURL = 'http://ec2-52-14-129-248.us-east-2.compute.amazonaws.com/victims/find?';
+const url = 'pv-api.herokuapp.com/victims';
+const queryURL = 'pv-api.herokuapp.com/victims/find?';
 
 export default function search(gender, race, place, cam, verdict, callback, fail) {
   let fetchURL = queryURL;
