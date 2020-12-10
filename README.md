@@ -1,5 +1,5 @@
 # say-their-names
-
+https://img.shields.io/circleci/build/github/NinjaAung/say-their-names
 ## Project setup
 
 ### Docker
