@@ -8,6 +8,7 @@
 </a>
     <a href="https://hub.docker.com/r/ninjer27/say-their-names"><img alt="Image Size" src="https://shields.beevelop.com/docker/image/image-size/beevelop/shields/latest.svg">
  </a>
+  <img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m786624231-df9f068ef2605c8ad246760f">
         
 </p>
 
