@@ -6,7 +6,7 @@
     <a href="https://github.com/NinjaAung/say-their-names/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/NinjaAung/say-their-names"></a>
     <a href="https://github.com/NinjaAung/say-their-names/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NinjaAung/say-their-names">
 </a>
-    <a href="https://hub.docker.com/r/ninjer27/say-their-names"><img alt="Image Size" src="https://shields.beevelop.com/docker/image/image-size/beevelop/shields/latest.svg">
+    <a href="https://hub.docker.com/r/ninjer27/say-their-names"><img alt="Image Size" src="https://img.shields.io/docker/image-size/ninjer27/say-their-names">
  </a>
   <img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m786624231-df9f068ef2605c8ad246760f">
         
